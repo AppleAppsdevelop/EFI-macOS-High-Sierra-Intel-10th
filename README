@@ -3,7 +3,7 @@ Repositório macOS EFI Para Intel 10Th / Com macOS High Sierra incluído.
 Especificações:
 Processador: Intel Core i3-10105F
 Placa mãe: Gigabyte H410M-H 
-Ethernet:
+Ethernet: Necessário configurar manualmente.
 Áudio: Realtek Codec ALC-887 ( Ainda não 100% Funcional )
 Placa de vídeo: NVIDIA GTX 750Ti 2Gb
 SMBIOS: iMac 18,1
