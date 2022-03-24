@@ -1,9 +1,14 @@
-Repositório macOS EFI Para Intel 10Th / Com High Sierra.
+Repositório macOS EFI Para Intel 10Th / Com macOS High Sierra incluído.
 
 Especificações:
-Processador: Intel core i3-10105F
+Processador: Intel Core i3-10105F
 Placa mãe: Gigabyte H410M-H 
 Ethernet:
 Áudio: Realtek Codec ALC-887 ( Ainda não 100% Funcional )
 Placa de vídeo: NVIDIA GTX 750Ti 2Gb
+SMBIOS: iMac 18,1
+Sistema incluído: macOS High Sierra ( 2017 Launched )
+Open Core: 0.7.9
 
+Sistema de instalação do High Sierra:
+Via macOS Recovery mode ( Sem imagens raw ou iso )
